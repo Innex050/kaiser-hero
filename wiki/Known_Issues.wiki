@@ -15,3 +15,9 @@ A: After booting initiate a call. This should fix the problem. If not...wait for
 
 *Q 6: After sliding the Keyboard the screen rotates ok. After sliding back/closing the keyboard, the screen rotates 180 degrees (mirrored portrait), not 90 degrees as it should.*<br />
 A: Go to the menu, tap "Settings", tap "Sound and Display", scroll down until you find "Orientation" (Display settings category), uncheck "Orientation".
+
+*Q 7: After sending an SMS I receive an error message. Was my message sent? Can I fix this?*<br />
+A: Your message was sent, even if you received the "message not sent" error. Right now the coders didn't fixed this problem, come back later and try new bundles (if available).
+
+*Q 8: I can't find my SIM contacts! Are they gone?!*<br />
+A: No, they are safe, but right now the ported version can't read the SIM contacts. Still sync them - from WinMo - with Google using Google Sync (http://www.google.com/mobile/products/sync.html#p=winmo) than sync Android with Google. Don't forget to BACKUP YOUR DATA in WinMo - I recommend PIM Backup - in case the sync goes crazy.
