@@ -20,4 +20,4 @@ A: Go to the menu, tap "Settings", tap "Sound and Display", scroll down until yo
 A: Your message was sent, even if you received the "message not sent" error. Right now the coders didn't fixed this problem, come back later and try new bundles (if available).
 
 *Q 8: I can't find my SIM contacts! Are they gone?!*<br />
-A: No, they are safe, but right now the ported version can't read the SIM contacts. Still sync them - from WinMo - with Google using Google Sync (http://www.google.com/mobile/products/sync.html#p=winmo) than sync Android with Google. Don't forget to BACKUP YOUR DATA in WinMo - I recommend PIM Backup - in case the sync goes crazy.
+A: No, they are safe, but right now the ported version can't read the SIM contacts. Still sync them - from WinMo - with Google using Google Sync (http://www.google.com/mobile/products/sync.html#p=winmo) than sync Android with Google. Don't forget to BACKUP YOUR DATA in WinMo (I recommend PIM Backup) in case the sync goes crazy.
