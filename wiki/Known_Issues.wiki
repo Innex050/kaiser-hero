@@ -2,7 +2,7 @@
 A: Doublecheck that you have the correct settings in default.txt (mddi.width=320 mddi.height=480 lcd.density=160)
 
 *Q 2: My screen looks ugly, like a low-res monitor*<br />
-A: You should open "default.txt" and modify "board-htckaiser.panel_type=" from "2" to "1";
+A: You should open "default.txt" and modify "board-htckaiser.panel_type=" from "2" to "0", "1" or "3";
 
 *Q 3: After booting I get a lot of errors. What should I do? Force them to close or wait?*<br />
 A: You should tap "Wait". The HTC HERO has better hardware and optimized software, so you can't compare Kaiser with it. Just wait for all the processes to run and than everything will work smoothly.
