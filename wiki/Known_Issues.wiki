@@ -9,3 +9,6 @@ A: You should tap "Wait". The HTC HERO has better hardware and optimized softwar
 
 *Q 4: My device works really slow when moving through different panels/screens. What should I do?*<br />
 A: Try to remove all the widgets that get data from the internet, like the weather-clock, weather, stock, etc. Try to keep as much "local" data you can on your home screen and panels.
+
+*Q 5: I receive calls, I try to answer but I can't hear anything!*<br />
+A: After booting initiate a call. This should fix the problem. If not...wait for a newer bundle.
