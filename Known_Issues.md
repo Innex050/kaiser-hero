@@ -1,0 +1,23 @@
+**Q 1: The HERO logo appears than reboots over and over**<br />
+A: Doublecheck that you have the correct settings in default.txt (mddi.width=320 mddi.height=480 lcd.density=160)
+
+**Q 2: My screen looks ugly, like a low-res monitor**<br />
+A: You should open "default.txt" and modify "board-htckaiser.panel\_type=" from "2" to "0", "1" or "3";
+
+**Q 3: After booting I get a lot of errors. What should I do? Force them to close or wait?**<br />
+A: You should tap "Wait". The HTC HERO has better hardware and optimized software, so you can't compare Kaiser with it. Just wait for all the processes to run and than everything will work smoothly.
+
+**Q 4: My device works really slow when moving through different panels/screens. What should I do?**<br />
+A: Try to remove all the widgets that get data from the internet, like the weather-clock, weather, stock, etc. Try to keep as much "local" data you can on your home screen and panels.
+
+**Q 5: I receive calls, I try to answer but I can't hear anything!**<br />
+A: After booting initiate a call. This should fix the problem. If not...wait for a newer bundle.
+
+**Q 6: After sliding the Keyboard the screen rotates ok. After sliding back/closing the keyboard, the screen rotates 180 degrees (mirrored portrait), not 90 degrees as it should.**<br />
+A: Go to the menu, tap "Settings", tap "Sound and Display", scroll down until you find "Orientation" (Display settings category), uncheck "Orientation".
+
+**Q 7: After sending an SMS I receive an error message. Was my message sent? Can I fix this?**<br />
+A: Your message was sent, even if you received the "message not sent" error. Right now the coders didn't fixed this problem, come back later and try new bundles (if available).
+
+**Q 8: I can't find my SIM contacts! Are they gone?!**<br />
+A: No, they are safe, but right now the ported version can't read the SIM contacts. Still sync them - from Windows Mobile - with Google using Google Sync (http://www.google.com/mobile/products/sync.html#p=winmo) than sync Android with Google. Don't forget to BACKUP YOUR DATA in Windows Mobile - I recommend PIM Backup - in case the sync goes crazy.
